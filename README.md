@@ -1,4 +1,4 @@
 ### Git and Github Tutorials
 ## init - initializing a new repository
-## Krish NAIK
+## Krish Naik
 ## Github Tutorials
